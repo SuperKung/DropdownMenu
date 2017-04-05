@@ -55,11 +55,13 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.twiceyuan:DropdownMenu:1.1.6'
+    compile 'com.github.SuperKung:DropdownMenu:1.1.7'
 }
 ```
 
 ## 更新日志
+
+### update 1.1.7
 
 ### update 1.1.6
 
