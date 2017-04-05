@@ -63,6 +63,9 @@ dependencies {
 
 ### update 1.1.7
 
+1、为标题栏添加icon
+2、适配android 7.0，解决7.0下的popupWindow的全屏问题
+
 ### update 1.1.6
 
 优化下拉菜单标题的显示，在其长度过长时显示省略号。同时增加获得标题文本 TextView 的方法，方便使用时进一步微调
